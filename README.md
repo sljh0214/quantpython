@@ -57,5 +57,5 @@ MDD(Maximum Drawdown) : 고점 대비 최대 하락비율
 ![Rebalance](./output/myplot_rebalance.png)
 ![Rebalance PER PBR](./output/myplot_rebal_per_pbr.png)
 ![Rebalance PER PBR Combo](./output/myplot_rebal_per_pbr_combo.png)
-![Rebalance FScore Combo](./output/myplot_rebal_fscore_combo)
+![Rebalance FScore Combo](./output/myplot_rebal_fscore_combo.png)
 ![Rebalance PBR+PER FScore Value+FScore](./output/myplot_rebal_PBR+PER_fscore_value+fscore.png)
